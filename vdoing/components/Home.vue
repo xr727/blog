@@ -346,6 +346,8 @@ export default {
     min-height 450px
     margin-top $navbarHeight
     color $bannerTextColor
+    height 100vh
+    width 100vw
     position relative
     overflow hidden
     .banner-conent
